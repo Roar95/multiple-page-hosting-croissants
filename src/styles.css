@@ -16,7 +16,6 @@ p {
 img {
   margin: 10px 30px;
   border-radius: 20px;
-  display: block;
   max-width: 700px;
 }
 
@@ -33,3 +32,5 @@ img {
   border-radius: 5px;
   margin: 20px;
 }
+
+.
